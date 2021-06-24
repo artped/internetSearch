@@ -2,7 +2,7 @@ import java.net.InetAddress;
 import java.net.URL;
 import java.net.URLEncoder;
 import java.io.*;
-import com.google.gson.Gson;
+import com.google.gson;
 
 public class InternetSearch {
 
